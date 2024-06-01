@@ -1,8 +1,8 @@
-# CYBER-X WHATSAPP BOT
+# TAIFUR-X LUCIFER WHATSAPP BOT
 
 <p align = center>   <img src="https://telegra.ph/file/088d3f88c84da41200e34.jpg" alt="GIF" width="600" height="300"/> </p>
 
-<p align  = center> <a href="#"><img title="TAIFUR-X LUCIFER BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align  = center> <a href="#"><img title="TAIFUR-X LUCIFER BOT" src="https://img.shields.io/badge/TAIFUR-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 
 ## Authors
