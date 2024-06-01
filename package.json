@@ -1,5 +1,5 @@
 {
-    "name": "CYBER-X",
+    "name": "TAIFUR-X",
     "version": "2.0.1",
     "description": "A simple and easy-to-use WhatsApp bot project based on Multi-Device Baileys and written in JavaScript",
     "main": "index.js",
@@ -11,7 +11,7 @@
     },
     "author": "darkalphaxteam",
     "dependencies": {
-        "@whiskeysockets/baileys": "git+https://github.com/darkalphaxteam/Baileys-New.git",
+        "@whiskeysockets/baileys": "git+https://github.com/Tamoom/Baileys-New.git",
         "@adiwajshing/keyed-db": "^0.2.4",
         "@bochilteam/scraper-images" : "^1.0.2",
         "@blackamda/telegram-image-url" : "^1.0.0",
@@ -65,10 +65,10 @@
     },
     "repository": {
          "type": "git",
-         "url": "git+https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT"
+         "url": "git+https://github.com/Tamoom/taifur-x-lucifer"
     },
     "bugs": {
-         "url": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT"
+         "url": "https://github.com/Tamoom/taifur-x-lucifer"
     },
-  "homepage": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT"
+  "homepage": "https://github.com/Tamoom/taifur-x-lucifer"
 }
