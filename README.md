@@ -52,7 +52,7 @@ For support, email taifur786@gmail.com or After deploying the bot you can join t
 
 ## Feedback
 
-If you have any feedback, please reach out to us at taifur786@gmail.com@gmail.com
+If you have any feedback, please reach out to us at taifur786@gmail.com
 
 
 ## Environment Variables
