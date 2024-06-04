@@ -1,5 +1,5 @@
 {
-    "name": "TAIFUR-X",
+    "name": "TAIFUR-X-LUCIFER",
     "version": "2.0.1",
     "description": "A simple and easy-to-use WhatsApp bot project based on Multi-Device Baileys and written in JavaScript",
     "main": "index.js",
@@ -9,7 +9,7 @@
         "stop": "pm2 stop wabot",
         "restart": "pm2 restart wabot"
     },
-    "author": "darkalphaxteam",
+    "author": "Tamoom",
     "dependencies": {
         "@whiskeysockets/baileys": "git+https://github.com/Tamoom/Baileys-New.git",
         "@adiwajshing/keyed-db": "^0.2.4",
@@ -65,10 +65,10 @@
     },
     "repository": {
          "type": "git",
-         "url": "git+https://github.com/Tamoom/taifur-x-lucifer"
+         "url": "git+https://github.com/Tamoom/taifur-x-lucifer-"
     },
     "bugs": {
-         "url": "https://github.com/Tamoom/taifur-x-lucifer"
+         "url": "https://github.com/Tamoom/taifur-x-lucifer-"
     },
-  "homepage": "https://github.com/Tamoom/taifur-x-lucifer"
+  "homepage": "https://github.com/Tamoom/taifur-x-lucifer-"
 }
